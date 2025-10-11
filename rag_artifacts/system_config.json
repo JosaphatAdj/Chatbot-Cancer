@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-10-11T12:56:09.118679",
+  "data_path": "/content/data",
+  "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "llm_integrated": true,
+  "vector_store": "ChromaDB",
+  "similarity_top_k": 3,
+  "gpu_memory": 15.828320256
+}
